@@ -1,0 +1,12 @@
+[submodule "DAM-TP1"]
+	path = DAM-TP1
+	url = https://github.com/RuiFerreira05/DAM-TP1
+[submodule "HelloWorld"]
+	path = HelloWorld
+	url = https://github.com/RuiFerreira05/DAM-HelloWorld.git
+[submodule "SystemInfoApp"]
+	path = SystemInfoApp
+	url = https://github.com/RuiFerreira05/DAM-SystemInfoApp.git
+[submodule "TimeToGo"]
+	path = TimeToGo
+	url = https://github.com/RuiFerreira05/Time-To-Go.git
